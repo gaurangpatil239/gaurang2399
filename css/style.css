@@ -24,7 +24,7 @@
 /* Styling of home and introduction content*/
 
 .home {
-    background: linear-gradient(to top, #faf5f5 0%, #0f143b 100%); 
+    background: linear-gradient(#e66465, #9198e5);
     height: 780px;
 }
 
